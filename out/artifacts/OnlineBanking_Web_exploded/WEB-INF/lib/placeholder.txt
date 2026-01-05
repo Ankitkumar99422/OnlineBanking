@@ -1,0 +1,1 @@
+Place your JDBC driver jar (mysql-connector-java.jar) here.
